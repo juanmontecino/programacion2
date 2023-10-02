@@ -1,0 +1,3 @@
+Este es el contenido que quiero escribir en el archivo.
+Puasdadasssssssssssssssssssssssssssss si lo deseo.
+¡Python es genial para trabajar con archivos de texto!
