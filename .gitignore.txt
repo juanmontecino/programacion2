@@ -1,0 +1,4 @@
+tp7/biblioteca/.venv
+tp7/biblioteca/__pycache__
+tp7/biblioteca/controladores/__pycache__
+tp7/biblioteca/modelos/__pycache__
